@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <title>بدر بن ناصر الجيعان</title>
 <html lang="ar">
 <head>
