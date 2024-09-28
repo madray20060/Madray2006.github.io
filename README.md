@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <title>بدر بن ناصر الجيعان</title>
 <html lang="ar">
 <head>
@@ -21,7 +22,7 @@
         }
 
         header h1 {
-            font-size: 25px;
+            font-size: 20px;
             margin: 0;
         }
 
@@ -223,9 +224,13 @@
 <p> 0533630037 </p> 
     </footer>
 
-    <!-- WhatsApp Icon -->
+  
+
+    
+
+    <!-- أيقونة واتساب -->
     <div class="whatsapp-icon">
-        <a href="https://wa.me/0533630037" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=966533630037&text=مرحبا%20أريد%20التواصل%20معك" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon">
         </a>
     </div>
